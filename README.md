@@ -1,5 +1,5 @@
 # QPmR
-This is a python version of the QPmR algorithm developed in Matlab by Porf. Tomas Vyhlidal
+This is a python version of the QPmR algorithm developed in Matlab by Prof. Tomas Vyhlidal
 
 ## Disclamer
 ---------
