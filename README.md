@@ -4,7 +4,7 @@ This is a python version of the QPmR algorithm developed in Matlab by Porf. Toma
 ## Disclamer
 ---------
 
-This is not an original work. The code bellow is just a translation from matlab to Python of the original QPmR algorithm, for further details visit Prof. Tomas Vyhlidal site following the link bellow:
+This is not an original work. The code in qpmr.py is just a translation from matlab to Python of the original QPmR algorithm, for further details visit Prof. Tomas Vyhlidal site following the link bellow:
 
 http://www.cak.fs.cvut.cz/vyhlidal
 
