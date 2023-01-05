@@ -32,7 +32,7 @@ QP=s**3+(2/5)*s**2-(13/20)*s+1/20+(kp+kd*(1-exp(-tau1*s))*(3-exp(-s*tau1))/(2*ta
 Region = [-200, 5000, -10, 10]
 
 # The output of the QPmR function is an array containing all the roots found in the given region
-r1 = QPmR(QP1,np.array(Region),0.1*np.pi/2.5,0.000000001);
+r1 = QPmR(QP,np.array(Region),0.1*np.pi/2.5,0.000000001);
 
 #Several examples were performed in order to verify that the results given by this function matched those of the matlab function of Prof. Tomas Vyhlidal 
 ```
