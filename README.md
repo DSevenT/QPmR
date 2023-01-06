@@ -11,6 +11,7 @@ http://www.cak.fs.cvut.cz/vyhlidal
 ## Acknowledgments
 ----------
 The translation was performed by E.E. Arturo Tapia
+
 Github: https://github.com/lohug1
 
 ## References
