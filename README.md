@@ -8,6 +8,10 @@ This is not an original work. The code in qpmr.py is just a translation from mat
 
 http://www.cak.fs.cvut.cz/vyhlidal
 
+## Acknowledgments
+----------
+The translation was performed by E.E. Arturo Tapia
+Github: https://github.com/lohug1
 
 ## References
 ----------
