@@ -10,7 +10,7 @@ http://www.cak.fs.cvut.cz/vyhlidal
 
 ## Acknowledgments
 ----------
-The translation was performed by E.E. Arturo Tapia
+The translation was performed with the help of E.E. Arturo Tapia
 
 Github: https://github.com/lohug1
 
