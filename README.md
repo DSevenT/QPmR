@@ -1,6 +1,11 @@
 # QPmR
 This is a python version of the QPmR algorithm developed in Matlab by Prof. Tomas Vyhlidal
 
+# Update
+A Python version of the most recent Matlab implementation of the QPmR with pip installation available can be find in: [link](https://github.com/LockeErasmus/qpmr)
+
+<a href="https://github.com/LockeErasmus/qpmr">link</a>
+
 ## Disclamer
 ---------
 
